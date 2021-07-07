@@ -1,0 +1,43 @@
+body {display: flex;
+    background-color: white;
+    justify-content:center;
+}
+h1{
+    color: black; background-color: brown;
+    text-align: center;
+}
+#my-p{
+    background-color: white;
+}
+
+h3{
+    color: black; background-color: brown;
+    text-align: center;
+}
+.block {
+    background-color:white;
+    height: 500px;
+    width: 400px;
+    color:black;
+}
+
+form {
+padding-left: 10px;
+padding-top: 20px;
+    background-color: rgb(245, 237, 239);
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+input {border-radius: 20px;
+    width: 70%;
+    height: 30%;
+}
+div {
+    margin: 5%;
+}
+
+label{
+     text-align:center;
+}
